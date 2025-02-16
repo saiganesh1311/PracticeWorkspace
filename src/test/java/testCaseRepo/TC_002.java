@@ -31,6 +31,7 @@ public class TC_002 extends BaseClass {
 		System.out.println("after commit");
 		
 		System.out.println("hello world");
+		System.out.println("hello who");
 	}
 
 }
