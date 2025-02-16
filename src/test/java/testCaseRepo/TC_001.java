@@ -30,7 +30,7 @@ public class TC_001 extends BaseClass {
 		String LastName= eUtil.getDataFromExcel("Leads", 2, 3);
 		String comp= eUtil.getDataFromExcel("Leads", 2, 4);
 		
-		Assert.fail();
+		
 		CreatingNewLeadsPage clp= new CreatingNewLeadsPage(driver);
 		clp.createNewLeads(FirstName, LastName, comp);
 		
