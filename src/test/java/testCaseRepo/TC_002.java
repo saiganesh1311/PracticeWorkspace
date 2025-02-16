@@ -34,6 +34,11 @@ public class TC_002 extends BaseClass {
 		System.out.println("hello who");
 		System.out.println("welcome ");
 		System.out.println("welcome to new practice");
+
+		System.out.println("hello all");
+
+		System.out.println("branch push");
+
 	}
 
 }
