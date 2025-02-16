@@ -32,6 +32,7 @@ public class TC_002 extends BaseClass {
 		
 		System.out.println("hello world");
 		System.out.println("hello who");
+		System.out.println("welcome ");
 	}
 
 }
