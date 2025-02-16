@@ -28,6 +28,7 @@ public class TC_002 extends BaseClass {
 		
 		CreatingNewLeadsPage clp= new CreatingNewLeadsPage(driver);
 		clp.createNewLeads(FirstName, LastName, comp);
+		System.out.println("after commit");
 	}
 
 }
