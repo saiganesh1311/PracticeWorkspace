@@ -11,6 +11,9 @@ public class RetryPractise {
 		System.out.println("test started");
 		//Assert.fail();
 		System.out.println("test ended");
+		
+		System.out.println("new1");
+		
 	}
 
 }
